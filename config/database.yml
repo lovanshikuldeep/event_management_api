@@ -14,7 +14,7 @@ default: &default
   encodign: unicode
   username: kuldeep
   password: developer
-
+  
 development:
   <<: *default
   database: event_management_development
